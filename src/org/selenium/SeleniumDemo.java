@@ -29,5 +29,7 @@ System.out.println(title);
 	driver.quit();
 	System.out.println("webpage closed");
 	
+	System.out.println("remote pushing");
+	
 }
 }
